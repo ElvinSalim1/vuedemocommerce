@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ipad",
+      "description": "Lorma aliquasHic rem dignissimos quia natus quas voluptatem facilis quod maiores!",
+      "price": 849,
+      "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "description": "Lorem, ipsum doloorib asper voluptatei accusamus libreputem facilis quod maiores!",
+      "price": 49,
+      "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/10.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dell 786i",
+      "description": "Lorem, ipsum m voluptatemaores rerum et, minima aliquam nobis! Assumerioresaiores!",
+      "price": 249,
+      "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dell V-964i",
+      "description": "Lorem, ipsum dolohjucccr hhhisit amejjift consectetur adipisicing elituod maiores!",
+      "price": 749,
+      "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/4.jpg"
+    }
+  ]
+}
